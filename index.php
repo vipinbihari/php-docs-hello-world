@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Subdomain TakeOver By @bihari_web";
